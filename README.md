@@ -16,7 +16,8 @@ Also how we can manage memory using bit types and the ranges of numbers.
 
 [Learn GO](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM) - **YOUTUBE**
 
-[DOCS of GO](https://go.dev/ref/spec#Numeric_types) - **GO DOCS**
+**GO DOCS**
+[Numeric types of GO](https://go.dev/ref/spec#Numeric_types) - 
 
 
 ## Motivation for learning GO
