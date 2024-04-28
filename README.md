@@ -17,9 +17,8 @@ Understood the basics of printing and formatting in different varieties offered 
 ### FOURTH lesson
 Arrays and slices. Basics on how to declare. How to slice it with and without ranges involved to manipulate the array
 
-
 ### FIFTH lesson
-
+An insight into other packages that are available in GO standard library. Explored some on STRINGS and SORT pacakges. Basic functions were tried
 
 ## Reference
 
