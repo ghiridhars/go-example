@@ -19,7 +19,7 @@ func main() {
 	fmt.Printf("my age is %v and I can have %v\n", age, name)
 
 	// %q - format specifiers to add quote - has to be string - else error
-	fmt.Printf("my age is %q and I can have %q\n", age, name)
+	fmt.Printf("my age is %v and I can have %q\n", age, name)
 
 	// %T - format specifiers to know what type is the var
 	fmt.Printf("my age is of type %T\n", age)
