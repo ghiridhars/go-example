@@ -13,12 +13,15 @@ Also how we can manage memory using bit types and the ranges of numbers.
 
 ## Reference
 
+**YOUTUBE**
 
-[Learn GO](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM) - **YOUTUBE**
+[Learn GO](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM)
 
 **GO DOCS**
-[Numeric types of GO](https://go.dev/ref/spec#Numeric_types) - 
 
+[Numeric types of GO](https://go.dev/ref/spec#Numeric_types)
+
+[Format Specifiers of GO](https://pkg.go.dev/fmt@go1.22.2)
 
 ## Motivation for learning GO
 
