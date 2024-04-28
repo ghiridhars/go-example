@@ -11,6 +11,16 @@ Usual hello world to get started and verify if all configs of GO - GOPATH GOROOT
 Got into the basics of types of variables - string and int - their variations.
 Also how we can manage memory using bit types and the ranges of numbers.
 
+### THIRD lesson
+Understood the basics of printing and formatting in different varieties offered by GO
+
+### FOURTH lesson
+Arrays and slices. Basics on how to declare. How to slice it with and without ranges involved to manipulate the array
+
+
+### FIFTH lesson
+
+
 ## Reference
 
 **YOUTUBE**
