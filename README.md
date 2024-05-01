@@ -1,4 +1,5 @@
 # LEARN GO
+
 ## Demo app to Learn GoLang
 
 Categorized based on levels of learning
@@ -8,25 +9,33 @@ Categorized based on levels of learning
 Usual hello world to get started and verify if all configs of GO - GOPATH GOROOT are configured properly.
 
 ### SECOND lesson
+
 Got into the basics of types of variables - string and int - their variations.
 Also how we can manage memory using bit types and the ranges of numbers.
 
 ### THIRD lesson
+
 Understood the basics of printing and formatting in different varieties offered by GO
 
 ### FOURTH lesson
+
 Arrays and slices. Basics on how to declare. How to slice it with and without ranges involved to manipulate the array
 
 ### FIFTH lesson
+
 An insight into other packages that are available in GO standard library. Explored some on STRINGS and SORT pacakges. Basic functions were tried
+
+### SIXTH lesson
+
+Topic on how to iterate using loops on arrays and slice. Many variations have been implemented.
 
 ## Reference
 
-**YOUTUBE**
+**_YOUTUBE_**
 
 [Learn GO](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM)
 
-**GO DOCS**
+**_GO DOCS_**
 
 [Numeric types of GO](https://go.dev/ref/spec#Numeric_types)
 
